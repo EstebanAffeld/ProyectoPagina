@@ -1,20 +1,21 @@
-body { text-align: center;
-    background-size: cover;
-    
+body { 
+   text-align: center;
     background-image: url(assets/blank.png);
-    padding: 0px 250px 0px
-    
+
+    padding: 0px 250px 0px;
   
 
 }
 
-
 .titulo {
     font-family: 'Cabin', sans-serif; font-family: 'Chakra Petch', sans-serif;
     font-size: 50px;
-    text-decoration: overline;
+  
+
     text-shadow: 3px 5px 5px rgb(207, 176, 1);
+    text-align: center;
 }
+
 
 table {
 
